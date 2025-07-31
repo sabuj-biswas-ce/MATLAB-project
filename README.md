@@ -1,2 +1,2 @@
 # MATLAB-project
-This is a group project, where we calculate Cost Estimation of superstructure of a rectangular One storied masonry building using MATLAB.
+This is a group project of " Engineering Computation Sessional" from Level-2 Term-2 , where we calculate the Cost Estimation of the superstructure of a rectangular one-storied masonry building using MATLAB.
